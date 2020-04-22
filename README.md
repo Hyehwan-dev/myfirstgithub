@@ -1,2 +1,2 @@
-# myfirstgithub
+# python
 Python Codefestival Solution
